@@ -38,7 +38,7 @@ public class Calculator {
                 in.close();
                 break;
             } else {
-                System.out.println("Invalid opration !!");
+                System.out.println("Invalid operation !!");
             }
         }
     }

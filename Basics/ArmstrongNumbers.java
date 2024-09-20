@@ -31,7 +31,6 @@ public class ArmstrongNumbers {
             int cube = m*m*m;
             sum = sum + cube; 
         }
-
         return sum == original;
     }
 }
